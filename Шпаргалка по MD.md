@@ -164,6 +164,10 @@ ___
 
 [Раздел «Код»][code]
 
+# ИЗОБРАЖЕНИЯ
+![Логотип GitHub](https://yandex.ru/images/search?pos=0&from=tabbar&img_url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc2%2FGitHub_Invertocat_Logo.svg%2F330px-GitHub_Invertocat_Logo.svg.png&text=гитхаб&rpt=simage&lr=213)
+
+
 
 [1]: https://skillbox.ru/media "Всплывающая подсказка"
 [code]: https://skillbox.ru/media/code/
