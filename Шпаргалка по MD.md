@@ -165,7 +165,8 @@ ___
 [Раздел «Код»][code]
 
 # ИЗОБРАЖЕНИЯ
-![Логотип GitHub](https://yandex.ru/images/search?pos=0&from=tabbar&img_url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc2%2FGitHub_Invertocat_Logo.svg%2F330px-GitHub_Invertocat_Logo.svg.png&text=гитхаб&rpt=simage&lr=213)
+<img width="1280" height="1280" alt="GitHub_Invertocat_Logo svg" src="https://github.com/user-attachments/assets/cf6ad6c7-e177-448b-ba94-95b239bc372c" />
+
 
 
 
